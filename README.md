@@ -1,6 +1,6 @@
 Hi there, I'm Akash! 👋
 
-I'm an AI/Machine Learning Engineer and Data Scientist specializing in ML Algorithms, DeepLearning & Neural Networks, NLP, Transformers, and Computer Vision. I love solving complex problems revolving around AI and data.
+I'm an AI/Machine Learning Engineer and Data Scientist specializing in ML Algorithms, DeepLearning & Neural Networks, NLP, LLMs, Transformers, and Computer Vision. I love solving complex problems revolving around AI and data.
 
     🔭 I’m currently pursuing my Masters in AI, Data Science, and Digital Business and parallelly researching plus experimenting with Prediction Models!
     🌱 Knowledge is wealth! Hence, I consistently learn something new every day.
