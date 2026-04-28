@@ -1,6 +1,6 @@
 Hi there, I'm Akash! 👋
 
-I'm a Tech Professional with vast experience in System administration, operations engineering, and deep knowledge in AI/Machine Learning and Data Science specializing in ML Algorithms, DeepLearning & Neural Networks, NLP, LLMs, Transformers, and Computer Vision. I love solving complex problems revolving around AI and data.
+I'm a Tech Professional with vast experience in Operations engineering, and deep knowledge in AI/Machine Learning and Data Science specializing in ML Algorithms, DeepLearning & Neural Networks, NLP, LLMs, Transformers, and Computer Vision. I love solving complex problems revolving around AI and data.
 
     🔭 Pursued my Masters in AI, Data Science, and Digital Business.
     🌱 Knowledge is wealth! Hence, I consistently learn something new every day.
